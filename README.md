@@ -3,7 +3,7 @@
 **Whale Tracker Bot** is a real-time monitoring system that tracks massive crypto transactions (over $500,000) on the **Ethereum**, **Bitcoin**, and **Solana** networks.  
 It detects the transaction type (Transfer, Buy, or Sell) and sends instant alerts to dedicated **Telegram bots**.
 
-![Whale Tracker Architecture](./assets/architecture.png)
+
 *Architecture overview of the tracking system.*
 
 ---
@@ -20,7 +20,7 @@ It detects the transaction type (Transfer, Buy, or Sell) and sends instant alert
 
 ## Telegram Alert Preview 💬
 
-![Telegram Alert Example](./assets/telegram_alert.png)
+
 *A real example of a whale alert message sent to Telegram.*
 
 ---
