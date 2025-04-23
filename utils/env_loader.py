@@ -1,0 +1,7 @@
+TELEGRAM_BTC_BOT="7748761153:AAFBszFvjnN6uxIvSxcaXHzkiUAd7LlcwOY"
+TELEGRAM_ETH_BOT="7994600395:AAEVkbvuCY_pdJFuqpbqfTct8vYeR2-nTgc"
+TELEGRAM_SOL_BOT="7538909663:AAH92iQodjmsWHwn2Y8FD7T5H5RpuzJWc0A"
+
+CHAT_ID = "@samnetworksweb3"
+
+ALCHEMY_URL = "https://eth-mainnet.g.alchemy.com/v2/PnZstzW0PDS3F5YCkjZUnftQt0tkcldz"
